@@ -1,6 +1,7 @@
 # OLD_PORTOLIO_github_dmytra
 OLD_PORTFOLIO_github_dmytra 1998-2000~ ~~~
-- Graphic Design
+- Graphic Design + element UI/UX
+- typofraphia
 - pofigraphia
 - prepress
 - dtp
